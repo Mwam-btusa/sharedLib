@@ -1,0 +1,30 @@
+﻿@using Shared.Lib.Models
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model SharedData; 
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<form asp-action="ProcessData" method="post">
+    <div class="input-group">
+        <label for=" id">Id></label>
+        <input class="form-control" type="number" name="id" required/>
+    </div>
+
+    <div class="input-group">
+        <label for=" name">Name></label>
+        <input class="form-control" type="text" name="Name" required />
+    </div>
+    <button type="submit" class="btn btn-primary"></button>
+</form>
+
+@if (Model != null){
+    <div class="mt-3">
+        <h4> informação do modelo</h4>
+        <p>@Model.GetInfo()</p>
+    </div>
+}
