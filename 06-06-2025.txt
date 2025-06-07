@@ -1,0 +1,161 @@
+06-06-2025
+aula do Jackson 
+
+baixei e abri o programa shared.lib
+
+parei 
+metodologia agil
+ 
+entregar o projeto MVC
+que esta pendente
+
+Eduardo pires MVP Microsoft
+
+site dele
+https://desenvolvedor.io/?utm_source=google&utm_medium=GoogleAds_Institucional&utm_id=%7Bcampaignid%7D&gad_source=1&gad_campaignid=21310399878&gbraid=0AAAAACmngOu-wJfeuuyZ8w6RImTfs3oA-&gclid=CjwKCAjwo4rCBhAbEiwAxhJlCX7W2cjbbzmj8rCel18uVtAxfdkgM2FSrCZGxqnic7amLywKVLOCbxoCNVcQAvD_BwE
+
+
+
+
+--------------------------------------------------------
+Sistema de gerenciamento de relacionamento com o cliente 
+--------------------------------------------------------
+
+vai ser o mesmo projeto em DW2 e DI
+estoque
+
+biblioteca
+
+
+
+PROJETO - Sistema Completo com banco de dados
+Data de conclusão 13 de junho de 2025 às 23:59
+Instruções
+PROJETO - Sistema Completo com Banco de Dados
+Nesta tarefa, você embarcará em um projeto abrangente para criar um sistema completo que integre um banco de dados em um aplicativo Windows Forms. Este projeto foi projetado para mostrar sua compreensão do gerenciamento de banco de dados e desenvolvimento de aplicativos. Abaixo estão instruções detalhadas para guiá-lo por todo o processo, garantindo que você tenha um roteiro claro a seguir.
+
+Visão geral do projeto
+O objetivo principal deste projeto é projetar e implementar um sistema totalmente funcional que incorpore um banco de dados. Você utilizará o Windows Forms para a interface do usuário e poderá escolher SQLite ou outro banco de dados SQL para gerenciamento de dados. Seu sistema deve abranger as principais funcionalidades relevantes para o tema selecionado.
+
+Temas para escolher
+Você deve selecionar um dos três temas a seguir para o seu projeto:
+
+Sistema de gerenciamento de estoque
+Sistema de Gerenciamento de Bibliotecas
+Sistema de gerenciamento de relacionamento com o cliente (CRM)
+
+--------------------------------------------------------
+Sistema de gerenciamento de relacionamento com o cliente 
+--------------------------------------------------------
+
+
+PROJETO - Sistema Completo com Banco de Dados
+
+
+
+Ao selecionar um tema, considere seus interesses pessoais e as habilidades que você possui. Cada tema terá funcionalidades específicas que você precisará implementar, então escolha um pelo qual você se sinta apaixonado e confiante em desenvolver.
+
+Etapas para concluir a tarefa
+Etapa 1: Pesquisa e Planejamento
+Entenda os requisitos:
+
+Comece realizando uma pesquisa completa sobre o tema escolhido. Procure os sistemas existentes e identifique as principais funcionalidades que normalmente são necessárias para esse tipo de sistema.
+Considere as necessidades de usuários em potencial e como seu sistema pode atender a essas necessidades de forma eficaz.
+Defina os principais recursos:
+
+Crie uma lista abrangente dos principais recursos que seu sistema incluirá. Por exemplo, se você optar pelo Sistema de Gerenciamento de Estoque, considere funcionalidades como:
+Adicionando novos itens ao inventário
+Atualização dos níveis de estoque
+Geração de relatórios sobre níveis de estoque e vendas
+Certifique-se de que seus recursos estejam alinhados com as expectativas do tema que você escolheu.
+Crie um Plano de Projeto:
+
+Descreva as etapas que você seguirá para concluir o projeto. Isso deve incluir:
+Cronogramas para cada fase de desenvolvimento (design, implementação, teste e documentação)
+Marcos para acompanhar seu progresso
+Quaisquer recursos ou ferramentas necessários para concluir cada fase
+Etapa 2: design do banco de dados
+Escolha seu banco de dados:
+
+Decida se você usará o SQLite ou outro banco de dados SQL. Familiarize-se com os recursos, vantagens e limitações do banco de dados escolhido para garantir que ele atenda às necessidades do seu projeto.
+Projete o esquema do banco de dados:
+
+Crie um Diagrama Entidade-Relacionamento (ERD) para visualizar a estrutura do seu banco de dados. Este diagrama deve incluir:
+Tabelas obrigatórias
+Relações entre tabelas
+Campos dentro de cada tabela, incluindo tipos de dados e restrições
+Implemente o banco de dados:
+
+Usando o sistema de gerenciamento de banco de dados escolhido, crie as tabelas e relacionamentos de acordo com seu design.
+Preencha o banco de dados com dados de amostra para facilitar o teste e garantir que seu aplicativo possa interagir com o banco de dados de forma eficaz.
+Etapa 3: Desenvolver o aplicativo Windows Forms
+Configure seu ambiente de desenvolvimento:
+
+Certifique-se de ter o software necessário instalado, como o Visual Studio ou outro IDE (Ambiente de Desenvolvimento Integrado) que dê suporte ao desenvolvimento do Windows Forms.
+Crie a interface do usuário:
+
+Desenhe os formulários que constituirão sua inscrição. Concentre-se em criar uma experiência de usuário intuitiva:
+Garantir que a interface seja amigável e fácil de navegar
+Usar elementos de design e layouts consistentes em todos os formulários
+Funcionalidade de implementação:
+
+Escreva o código para conectar seu aplicativo ao banco de dados. Implemente as funcionalidades definidas anteriormente, garantindo que cada recurso funcione conforme o esperado. Isso pode incluir:
+Estabelecer uma conexão com o banco de dados
+Execução de operações CRUD (Criar, Ler, Atualizar, Excluir)
+Validação da entrada do usuário para evitar erros
+Lidar com exceções e erros normalmente para melhorar a experiência do usuário
+Etapa 4: Teste
+Realize testes unitários:
+
+Teste cada recurso individualmente para garantir que ele funcione corretamente. Isso inclui:
+Testando conexões de banco de dados
+Verificação de processos de recuperação de dados
+Avaliar as interações do usuário e garantir que elas produzam os resultados esperados
+Executar testes de integração:
+
+Depois de testar componentes individuais, verifique como eles funcionam juntos. Certifique-se de que o aplicativo seja executado sem problemas como uma unidade coesa.
+Teste de aceitação do usuário:
+
+Se possível, envolva colegas ou usuários em potencial para testar o aplicativo. Reúna feedback sobre usabilidade e funcionalidade para identificar áreas de melhoria.
+Etapa 5: Documentação
+Criar documentação do usuário:
+
+Escreva um manual do usuário que forneça instruções claras sobre como instalar e usar o aplicativo. Incluir:
+Capturas de tela para ilustrar as principais etapas
+Instruções passo a passo para maior clareza
+Documentação técnica:
+
+Documente o código e o esquema do banco de dados. Explicar:
+As decisões de design que você tomou ao longo do projeto
+Quaisquer desafios que você encontrou e como você os abordou
+Etapa 6: Submissão
+Prepare sua inscrição:
+
+Certifique-se de que todos os componentes do seu projeto estejam completos, incluindo o aplicativo, o banco de dados e a documentação. Verifique novamente se há arquivos ausentes ou seções incompletas.
+Envie seu projeto:
+
+Siga as diretrizes de envio fornecidas pelo seu instrutor. Certifique-se de incluir todos os arquivos e documentação necessários em seu pacote de envio.
+Conclusão
+Este projeto apresenta uma excelente oportunidade para você aplicar seus conhecimentos de sistemas de banco de dados e desenvolvimento de aplicativos em um ambiente prático. Reserve um tempo para planejar, projetar e implementar seu sistema completamente. Abrace o processo de aprendizagem e aproveite a experiência de criar seu sistema completo! Boa sorte!
+
+Meu trabalho
+
+
+
+
+05-06-2025 Banco de dados--quinta feira aula do flavio
+
+
+xampp
+
+
+
+start 
+
+Apache
+MySql
+
+minimiza
+
+abre um navegador com este endereço
+http://localhost/phpmyadmin
